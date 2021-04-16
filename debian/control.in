@@ -3,7 +3,7 @@ Maintainer: Scibian Project <packaging@scibian.org>
 Uploaders: Romaric Kanyamibwa <romaric-externe.kanyamibwa@edf.fr>,
 Section: devel
 Priority: optional
-Build-Depends: debhelper-compat (>= 9),
+Build-Depends: debhelper (>= 9),
                golang-any (>= 2:1.4~) | golang-go (>= 2:1.4~) | gccgo (>= 4:5~),
                netbase
 Standards-Version: 4.3.0
