@@ -1,3 +1,9 @@
+golang-1.14 (1.14.9-1sci9u6) scibian9; urgency=medium
+
+  * revert debian rules file and add Rules-requires
+
+ -- Romaric Kanyamibwa <romaric-externe.kanyamibwa@edf.fr>  Fri, 16 Apr 2021 16:39:50 +0200
+
 golang-1.14 (1.14.9-1sci9u5) scibian9; urgency=medium
 
   * use golang-1.11 debian rules file
