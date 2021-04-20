@@ -1,3 +1,9 @@
+golang-1.14 (1.14.9-1sci9u9) scibian9; urgency=medium
+
+  * remove breaks field from debian/control
+
+ -- Romaric Kanyamibwa <romaric-externe.kanyamibwa@edf.fr>  Tue, 20 Apr 2021 16:14:59 +0200
+
 golang-1.14 (1.14.9-1sci9u8) scibian9; urgency=medium
 
   * change debian/control architecture fields to any
