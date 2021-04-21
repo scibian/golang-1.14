@@ -1,3 +1,9 @@
+golang-1.14 (1.14.9-1sci10u2) scibian10; urgency=medium
+
+  * update debian/control file
+
+ -- Romaric Kanyamibwa <romaric-externe.kanyamibwa@edf.fr>  Wed, 21 Apr 2021 12:11:35 +0200
+
 golang-1.14 (1.14.9-1sci10u1) scibian10; urgency=medium
 
   * New Upstream version.
